@@ -10,7 +10,7 @@ Table of contents
     Key Features
 
     Live demo
-
+        click on link  https://gonzaloalonzo.github.io/hellomicroverse/
 Getting Started
     setup
     Prerequisites
@@ -20,7 +20,7 @@ Getting Started
     Deployment
 
 Authors
-
+    Gonzalo Alonzo
 Future Features
 
 Contributing
