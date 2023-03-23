@@ -4,7 +4,7 @@
 
 <div align="center">
   
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+  
   <br/>
 
   <h3><b>Microverse README Template</b></h3>
@@ -61,40 +61,15 @@
 
 ## 🛠 Built With <a name="hellomicroverse"></a>
 
-### Tech Stack <a name="tech-stack"></a>
-
-> Describe the tech stack and include only the relevant sections that apply to your project.
-
-<details>
-  <summary>Client</summary>
-  <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
-  </ul>
-</details>
-
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
-  </ul>
-</details>
-
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
-  </ul>
-</details>
-
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
 
 > Describe between 1-3 key features of the application.
 
-- **[Use of html and css]**
-- **[linters]**
-- **[github]**
+- **Use of html and css**
+- **linters**
+- **github**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -102,9 +77,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
-
-- [Live Demo Link](https://github.com/gonzaloalonzo/hellomicroverse)
+- https://github.com/gonzaloalonzo/hellomicroverse
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -112,7 +85,7 @@
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> You may fork or download the proyect
+You may fork or download the proyect
 
 ### Prerequisites
 
@@ -145,13 +118,6 @@ To run the project, execute the following command:
 
 https://github.com/gonzaloalonzo/hellomicroverse
 
-### Run tests
-
-To run tests, run the following command:
-
-    sh
-  bin/rails test test/models/article_test.rb
-
 
 ### Deployment
 
@@ -165,21 +131,11 @@ https://github.com/gonzaloalonzo/hellomicroverse
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
-Gonzalo alonzo, Julio Cezar
+- Gonzalo alonzo
 
 
-👤 **Author1**
+- GitHub: [https://github.com/gonzaloalonzo/hellomicroverse]
 
-- GitHub: [@githubhandle](https://github.com/gonzaloalonzo/hellomicroverse)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -189,9 +145,8 @@ Gonzalo alonzo, Julio Cezar
 
 > Describe 1 - 3 features you will add to the project.
 
-- [ ] **[images]**
-- [ ] **[Video]**
-- [ ] **[more text]**
+- [Images] 
+- [Video] 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -229,22 +184,13 @@ I would like to thank...
 
 > How to conect css?
 
+  - In the html page use the link tag
 
-- **[Question_1]**
 
-  - [use the link tag]
-
-- **[Question_2]**
-
-  - [Answer_2]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LICENSE -->
 
-## 📝 License <a name="license"></a>
-
-This project is [MIT](./LICENSE) licensed.
 
 
 
